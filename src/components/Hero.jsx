@@ -1,4 +1,4 @@
-import foret from "../assets/forêt.jpg"
+
 
 export default function Hero() {
   return (

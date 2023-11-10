@@ -61,7 +61,7 @@ export default function Fouter() {
             <li>
               <a
                 className="text-gray-700 transition hover:text-gray-700/75"
-                href="/"
+                href="#propos"
               >
                 A propos
               </a>
@@ -71,7 +71,7 @@ export default function Fouter() {
             <li>
               <a
                 className="text-gray-700 transition hover:text-gray-700/75"
-                href="/"
+                href="#histoire"
               >
                 Histoire
               </a>
@@ -80,7 +80,7 @@ export default function Fouter() {
             <li>
               <a
                 className="text-gray-700 transition hover:text-gray-700/75"
-                href="/"
+                href="#service"
               >
                 Service
               </a>
@@ -89,7 +89,7 @@ export default function Fouter() {
             <li>
               <a
                 className="text-gray-700 transition hover:text-gray-700/75"
-                href="/"
+                href="#projet"
               >
                 Projets
               </a>
